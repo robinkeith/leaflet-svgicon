@@ -1,0 +1,19 @@
+{
+  "name": "leaflet-svgicon",
+  "version": "1.0.0",
+  "description": "provides SVG icons for Leaflet maps",
+  "main": "svg-icon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robinkeith/leaflet-svgicon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robinkeith/leaflet-svgicon/issues"
+  },
+  "homepage": "https://github.com/robinkeith/leaflet-svgicon#readme"
+}
